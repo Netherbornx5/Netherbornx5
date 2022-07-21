@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding and gaming.
 - 🌱 I’m currently learning python, a data science language.
 - 💞️ I’m looking to collaborate on a few projects made by both me and you!
-- 📫 How to reach me email netherborn009@gmail.com NOT mchughr009@gmail.com
+- 📫 Reach me by emailing netherborn009@gmail.com 
